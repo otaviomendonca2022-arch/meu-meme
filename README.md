@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="./nome-da-sua-imagem.png" alt="Meme" width="600">
-</p>
+![Meme Angry Bird](./Gemini_Generated_Image_i9dzf5i9dzf5i9dz%20(1).jpg)
