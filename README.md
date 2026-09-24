@@ -1,1 +1,3 @@
-![Meme Angry Bird](./Gemini_Generated_Image_i9dzf5i9dzf5i9dz%20(1).jpg)
+git add .
+git commit -m "Adiciona imagem do meme"
+git push origin main
